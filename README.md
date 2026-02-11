@@ -334,6 +334,6 @@ Target achievements:
 
 ---
 
-**Made with 💜 by [Your Name]**
+**Made with 💜 by [Saif]**
 
 *Turning screenshots into production-ready code, one pixel at a time.*
